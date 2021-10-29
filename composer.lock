@@ -1,0 +1,59 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "401b1400ef6910d74dfb939af71682c0",
+    "packages": [
+        {
+            "name": "thybag/php-sharepoint-lists-api",
+            "version": "dev-master",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/thybag/PHP-SharePoint-Lists-API.git",
+                "reference": "7b0d6dc3635abaf8ed2c133948540513b3537107"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/thybag/PHP-SharePoint-Lists-API/zipball/7b0d6dc3635abaf8ed2c133948540513b3537107",
+                "reference": "7b0d6dc3635abaf8ed2c133948540513b3537107",
+                "shasum": ""
+            },
+            "type": "library",
+            "autoload": {
+                "psr-0": {
+                    "Thybag": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Carl Saggs",
+                    "email": "carl@userbag.co.uk"
+                }
+            ],
+            "description": "A simple PHP API to make working with SharePoint lists easy.",
+            "homepage": "https://github.com/thybag/PHP-SharePoint-Lists-API",
+            "support": {
+                "issues": "https://github.com/thybag/PHP-SharePoint-Lists-API/issues",
+                "source": "https://github.com/thybag/PHP-SharePoint-Lists-API/tree/master"
+            },
+            "time": "2020-09-27T17:23:18+00:00"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": {
+        "thybag/php-sharepoint-lists-api": 20
+    },
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": [],
+    "plugin-api-version": "2.0.0"
+}
